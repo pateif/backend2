@@ -1,0 +1,10 @@
+booking-system/
+├── models/
+│   └── User.js
+│   └── Booking.js
+├── routes/
+│   └── users.js
+│   └── bookings.js
+├── app.js
+├── config.js
+└── server.js
